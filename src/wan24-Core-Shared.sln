@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "wan24-Core-Shared", "wan24-Core-Shared\wan24-Core-Shared.shproj", "{9BBD359E-D0C4-4876-91E2-8663ADD3C9A4}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF25C6D0-25CE-4A47-BBA9-8379C143C9BF}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		wan24-Core-Shared\wan24-Core-Shared.projitems*{9bbd359e-d0c4-4876-91e2-8663add3c9a4}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
